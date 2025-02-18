@@ -149,7 +149,7 @@
 }
 
 body {
-  background-color: #303030;
+  background-color: #000061;
   font-family: 'GangofThree', sans-serif;
   color: #fff;
   font-size: 24px;
@@ -256,7 +256,7 @@ a {
 .style-guide-element-description {
   margin-top: 0px;
   margin-bottom: 0px;
-  color: #5e5e5e;
+  color: #0000be;
   font-style: italic;
 }
 
@@ -2296,7 +2296,7 @@ a {
   -ms-flex-align: center;
   align-items: center;
   border-bottom: 1px solid rgba(192, 192, 211, 0.2);
-  background-color: #4a4a4a;
+  background-color: #000094;
   -webkit-transform: translate3d(0px, 0px, 1000px);
   transform: translate3d(0px, 0px, 1000px);
   -webkit-transform-style: preserve-3d;
@@ -2857,7 +2857,7 @@ a {
   height: 30vh;
   margin-top: -8vh;
   background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 5, 32, 0)), color-stop(97%, #1DA1F2));
-  background-image: linear-gradient(180deg, rgba(0, 5, 32, 0), #5e5e5e 97%);
+  background-image: linear-gradient(180deg, rgba(0, 5, 32, 0), #0000be 97%);
 }
 
 .road-title {
@@ -4997,7 +4997,7 @@ a {
     -ms-flex-align: center;
     align-items: center;
     grid-column-gap: 10px;
-    background-color: #4a4a4a;
+    background-color: #000094;
   }
 
   .right-nav {
@@ -5044,7 +5044,7 @@ a {
   }
 
   .link-cover-2 {
-    background-color: #4a4a4a;
+    background-color: #000094;
   }
 
   .left-nav-2 {
@@ -5068,7 +5068,7 @@ a {
     grid-row-gap: 0px;
     -ms-grid-columns: 1fr;
     grid-template-columns: 1fr;
-    background-color: #4a4a4a;
+    background-color: #000094;
   }
 
   .menu-button-2 {
@@ -6145,7 +6145,7 @@ a {
   }
 
   .link-cover-2 {
-    background-color: #4a4a4a;
+    background-color: #000094;
   }
 
   .left-nav-2 {
@@ -6167,7 +6167,7 @@ a {
   }
 
   .nav-menu-links-2 {
-    background-color: #4a4a4a;
+    background-color: #000094;
   }
 
   .menu-button-2 {
