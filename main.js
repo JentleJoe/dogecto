@@ -4,7 +4,7 @@ const textConfig = {
     coinTitle: "DSS",
     contract: '0xf179f713557198db3cdaf3e3e26ab024fa5dcce3',
     supply: '420,690,000',
-    disclaimer: `$BIGBALLS is an independent cryptocurrency and is not affiliated with or endorsed by Elon Musk, Donald Trump, or any associated entities, brands, or intellectual properties. This token is purely for entertainment and meme culture and should not be considered financial advice. As with all cryptocurrencies, $BIGBALLS carries risks, and potential investors should conduct independent research and seek professional advice before making any financial decisions.`,
+    disclaimer: `$DSS is an independent cryptocurrency and is not affiliated with or endorsed by Dogecoin, its developers, or any related entities. This token is a community-driven project focused on bridging decentralized finance and financial accessibility. $DSS carries inherent risks like all cryptocurrencies, and potential investors should conduct independent research and seek professional advice before making any financial decisions.`,
   };
   const srcConfig = {
     chartImageSrc: "https://www.dextools.io/token/dogesocialsecurity?embed=1",
